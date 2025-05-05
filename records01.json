@@ -1,0 +1,191 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "profession": "Engineer",
+        "id": "001",
+        "email": "alice@example.com",
+        "age": 30,
+        "username": "Alice"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "profession": "Data Scientist",
+        "id": "002",
+        "email": "bob@example.com",
+        "age": 25,
+        "username": "Bob"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "profession": "Designer",
+        "id": "003",
+        "email": "carol@example.com",
+        "age": 27,
+        "username": "Carol"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Message"
+      ],
+      "properties": {
+        "priority": "high",
+        "content": "Hey, how are you?",
+        "timestamp": "2024-10-18T10:07:49.531Z"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Post"
+      ],
+      "properties": {
+        "postID": "post-1",
+        "category": "Blog",
+        "content": "Hello World",
+        "timestamp": "2024-10-31T10:07:49.531Z",
+        "likes": 10,
+        "status": "published"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Post"
+      ],
+      "properties": {
+        "postID": "post-2",
+        "category": "News",
+        "content": "My first post",
+        "timestamp": "2024-10-15T10:07:49.531Z",
+        "likes": 5,
+        "status": "archived"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Comment"
+      ],
+      "properties": {
+        "upvotes": 5,
+        "content": "Nice post!",
+        "timestamp": "2024-10-20T10:07:49.531Z"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Comment"
+      ],
+      "properties": {
+        "upvotes": 3,
+        "content": "Thanks for sharing",
+        "timestamp": "2024-10-20T10:07:49.531Z"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Group"
+      ],
+      "properties": {
+        "privacyLevel": "public",
+        "members": 100,
+        "name": "Neo4j Enthusiasts",
+        "description": "A group for Neo4j fans"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "PhotoAlbum"
+      ],
+      "properties": {
+        "popularity": 90,
+        "name": "Vacation",
+        "timestamp": "2024-10-31T10:07:49.531Z"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "name": "Berlin"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "name": "Paris"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "name": "London"
+      },
+      "elementId": "4:132efb51-4306-46dc-bccf-618bec349ffc:12"
+    }
+  }
+]
